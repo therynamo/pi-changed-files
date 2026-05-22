@@ -1,0 +1,17 @@
+{
+  "name": "pi-changed-files",
+  "version": "0.1.0",
+  "description": "Pi extension showing git-changed files in a floating overlay with diff counts",
+  "keywords": [
+    "pi-package"
+  ],
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  }
+}
