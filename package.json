@@ -12,6 +12,7 @@
   "pi": {
     "extensions": [
       "./extensions"
-    ]
+    ],
+    "image": "https://raw.githubusercontent.com/therynamo/pi-changed-files/main/static/screenshot.png"
   }
 }
